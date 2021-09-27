@@ -7,4 +7,6 @@
  ### URLs utilizados no projecto
  Url geral = "https://www.camaraindaial.sc.gov.br/pg/proposicoes"
  
- Exemplo de um url= 'https://www.legislador.com.br//LegisladorWEB.ASP?WCI=ProposicaoTexto&ID=3&TPProposicao=1&nrProposicao=806&aaProposicao=2021'
+ "https://www.legislador.com.br//LegisladorWEB.ASP?WCI=ProposicaoConsulta&ID=3&tpProposicao=1&"
+ 
+
