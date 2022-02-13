@@ -5,8 +5,14 @@
 
  
  ### URLs utilizados no projecto
- Url geral = "https://www.camaraindaial.sc.gov.br/pg/proposicoes"
  
- "https://www.legislador.com.br//LegisladorWEB.ASP?WCI=ProposicaoConsulta&ID=3&tpProposicao=1&"
+ Geral: https://www.camaraindaial.sc.gov.br/pg/proposicoes
+ 
+ Proposições: https://www.legislador.com.br//LegisladorWEB.ASP?WCI=ProposicaoConsulta&ID=3&tpProposicao=1&
+ 
+ 
+ ### Link da apresentação final
+ 
+ https://bit.ly/WebScrapingPythonINDAIAL
  
 
